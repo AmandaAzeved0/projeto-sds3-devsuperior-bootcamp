@@ -6,7 +6,7 @@ import java.io.Serializable;
 
 public class SellerDTO implements Serializable {
 
-    private static final long serialVersion =1L;
+    //private static final long serialVersion =1L;
 
     private Long id;
     private  String name;
